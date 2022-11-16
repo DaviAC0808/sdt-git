@@ -1518,6 +1518,10 @@ ul.social-list a:hover {
 	color: #ffffff;
 	background: #7FBC4E;
 }
+li.social-list-1 a:hover {
+	color: #ffffff;
+	background: #bc4e4e;
+}
 
 .category-list>li+li {
 	margin-top: 8px;
