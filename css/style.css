@@ -7375,7 +7375,8 @@ html:not(.ie-11):not(.ios) .parallax-disabled {
 }
 .calendar {
     position: relative;
-	margin-right: 35px;
+	margin-left: 15px;
+	margin-right: 15px;
 	margin-bottom: 30px;
 }
 .mes{
