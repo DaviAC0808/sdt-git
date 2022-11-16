@@ -7372,4 +7372,8 @@ html:not(.ie-11):not(.ios) .parallax-disabled {
 .calendar {
     position: relative;
 	margin-right: 35px;
+	margin-bottom: 30px;
+}
+.mes{
+	text-align: center;
 }
